@@ -1,0 +1,1 @@
+javascript:"use strict";!function(){"true"===document.body.getAttribute("contenteditable")?(document.body.setAttribute("contenteditable",!1),alert("%E7%BD%91%E9%A1%B5%E4%B8%8D%E8%83%BD%E7%BC%96%E8%BE%91%E5%95%A6%EF%BC%81")):(document.body.setAttribute("contenteditable",!0),alert("%E7%BD%91%E9%A1%B5%E5%8F%AF%E4%BB%A5%E7%BC%96%E8%BE%91%E5%95%A6%EF%BC%81"))}();
