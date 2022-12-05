@@ -1,0 +1,1 @@
+screenfull.request=function(){};onblur=null
